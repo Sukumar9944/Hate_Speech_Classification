@@ -1,0 +1,4 @@
+env/
+Artifacts/
+__pycache__/
+Hate_Speech_Dataset/
